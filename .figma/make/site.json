@@ -1,0 +1,10 @@
+{
+  "description": "Helps government agency staff register, track, assign, and manage FOIA requests, with clear visibility into cases, deadlines, tasks, and processing stages.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
